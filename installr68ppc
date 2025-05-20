@@ -1,0 +1,3 @@
+cp build/.libs/libSDL2_mixer.a $HOME/Retro68-build/toolchain/powerpc-apple-macos/lib
+mkdir -p $HOME/Retro68-build/toolchain/powerpc-apple-macos/include/SDL2
+cp include/*.h $HOME/Retro68-build/toolchain/powerpc-apple-macos/include/SDL2
